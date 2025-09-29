@@ -1,10 +1,11 @@
-# event-driven-programming-w25-26
+# Event Driven Programming w25-26
 
 ## Initial requirements:
-* Slack account
+* Slack account on
 * GitHub account
 * Gmail account
 * Medium.org account
+* n8n.io account
 
 ## Course requirements
 * min. 80% attendance
@@ -13,3 +14,18 @@
 * n8n workflow
 * EDP project on GitHub
 * article about Event Driven Programming on medium.org
+
+## Initial skills
+* fork a repository
+* add/edit file
+* run CodeSpace
+* commit changes
+```
+git add .
+git commit -m 'My comment'
+git push origin main
+```
+* check status
+```
+git status
+```
