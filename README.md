@@ -16,6 +16,9 @@
 * article about Event Driven Programming on medium.org
 
 ## Initial skills
+know how to:
+* use .md format (# ## etc.)
+* use terminal (`ls`, `cd`, `touch`, `nano`)
 * fork a repository
 * add/edit file
 * run CodeSpace
