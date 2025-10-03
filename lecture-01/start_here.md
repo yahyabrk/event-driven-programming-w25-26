@@ -13,11 +13,12 @@
 * publish it
 * add the link to that website task-01.md
 
-Example:
-|- `students`
-|-- `14341-piotr`
-|--- `task-01.md`
-
+#### Example:
+```
+|- students
+|-- 14341-piotr
+|--- task-01.md
+```
 
 ```
 # My website:
