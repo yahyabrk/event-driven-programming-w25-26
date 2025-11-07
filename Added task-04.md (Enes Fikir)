@@ -1,0 +1,5 @@
+# Task 04 - n8n GET Endpoint
+
+Webhook URL: https://enesfikir01.app.n8n.cloud/webhook/greetings
+
+Result: {"message":"Greetings from Enes Fikir"}
